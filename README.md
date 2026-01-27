@@ -19,7 +19,6 @@ I am passionate about transforming raw data into actionable insights. I enjoy bu
 
 #### 🏦 **[FinSafe AI: 360° Banking Decision System](https://github.com/Khushigupta2003/finsafe-ai)**
 *(https://loan-prediction-app-p9bmzhhwpxpucbitmwgldy.streamlit.app/)*
-*()*
 
 I built a **Hybrid Loan Eligibility System** that thinks like a real Bank Manager, not just a robot.
 * **🧠 Intelligent Logic:** Combines Machine Learning predictions with strict Financial Guardrails (Cash Flow & EMI checks).
