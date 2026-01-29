@@ -33,6 +33,6 @@ I built a **Hybrid Loan Eligibility System** that thinks like a real Bank Manage
 ---
 
 ### 📫 Connect with Me
-* [LinkedIn Profile](www.linkedin.com/in/khushi-analyst)
+* [LinkedIn Profile](https://www.linkedin.com/in/khushi-gupta-bba751230/)
 * [Email Me](mailto:kg808373@gmail.com)
 * [Portfolio](https://kg808373.wixsite.com/khushi-gupta)
