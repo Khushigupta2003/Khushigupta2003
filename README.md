@@ -25,12 +25,6 @@ I built a **Hybrid Loan Eligibility System** that thinks like a real Bank Manage
 * **💎 Asset Override:** Implemented a "Secured Loan" feature where pledging assets (Gold/Property) overrides low credit scores.
 * **💻 Tech Used:** Python, Streamlit, Scikit-Learn.
 
----
-
-### 📈 GitHub Stats
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushigupta2003&show_icons=true&theme=radical)
-
----
 
 ### 📫 Connect with Me
 * [LinkedIn Profile](https://www.linkedin.com/in/khushi-gupta-bba751230/)
