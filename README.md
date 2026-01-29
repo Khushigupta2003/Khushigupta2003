@@ -8,14 +8,14 @@ I am passionate about transforming raw data into actionable insights. I enjoy bu
 
 ### 🛠️ My Tech Stack
 * **Languages:** Python, SQL
-* **Data Science:** Pandas, NumPy, Scikit-Learn , Machine Learning
-* **Visualization:** Power BI, Matplotlib, Seaborn , Tableau
+* **Data Science:** Pandas, NumPy, Scikit-Learn, SciPy
+* **Visualization:** Power BI, Matplotlib, Seaborn, Tableau
 * **Web Frameworks:** Streamlit
-* **Tools:** Git, GitHub, VS Code , Alteryx (Workflow , Automation)
+* **Tools:** Git, GitHub, VS Code, Alteryx (Workflow Automation)
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### 🏦 **[FinSafe AI: 360° Banking Decision System](https://github.com/Khushigupta2003/finsafe-ai)**
 *(https://loan-prediction-app-p9bmzhhwpxpucbitmwgldy.streamlit.app/)*
@@ -25,6 +25,14 @@ I built a **Hybrid Loan Eligibility System** that thinks like a real Bank Manage
 * **💎 Asset Override:** Implemented a "Secured Loan" feature where pledging assets (Gold/Property) overrides low credit scores.
 * **💻 Tech Used:** Python, Streamlit, Scikit-Learn.
 
+#### 📉 **[Vendor Management System Data Analysis**
+An end-to-end data analysis project optimizing supply chain decisions using **Statistical Hypothesis Testing**.
+* **🔄 Automated ETL:** Built a pipeline using **Python & SQL** to ingest raw data into SQL Server for structured querying.
+* **📉 Statistical Validation:** Applied **Two-Sample T-Tests** (Hypothesis Testing) to prove that high sales volume does not guarantee high profit margins.
+* **💡 Business Impact:** Segmented vendors into "Strategic" vs "At-Risk" categories to aid in cost renegotiations.
+* **💻 Tech Used:** Python (Pandas, SciPy), SQL Server, Power BI/Tableau.
+
+---
 
 ### 📫 Connect with Me
 * [LinkedIn Profile](https://www.linkedin.com/in/khushi-gupta-bba751230/)
