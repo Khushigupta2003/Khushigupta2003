@@ -25,7 +25,7 @@ I built a **Hybrid Loan Eligibility System** that thinks like a real Bank Manage
 * **💎 Asset Override:** Implemented a "Secured Loan" feature where pledging assets (Gold/Property) overrides low credit scores.
 * **💻 Tech Used:** Python, Streamlit, Scikit-Learn.
 
-#### 📉 **Vendor Management System Data Analysis**
+#### 📉 **[Vendor Management System Data Analysis](https://github.com/Khushigupta2003/Vendor-Management-System)**
 An end-to-end data analysis project optimizing supply chain decisions using **Statistical Hypothesis Testing**.
 * **🔄 Automated ETL:** Built a pipeline using **Python & SQL** to ingest raw data into SQL Server for structured querying.
 * **📉 Statistical Validation:** Applied **Two-Sample T-Tests** (Hypothesis Testing) to prove that high sales volume does not guarantee high profit margins.
